@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **azizjohn.me@gmail.com**
 
-- ⚡ Fun fact **I think I'm weird and stupid**
+- ⚡ Fun fact **I think I'm weird**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
