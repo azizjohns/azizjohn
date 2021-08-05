@@ -49,4 +49,4 @@
   <li>to share my experience with young developers</li>
   <li>to create my own IT business company</li>
 </ul>
-<h3>Have good day!</h3>
+<h3>Have a good day!</h3>
