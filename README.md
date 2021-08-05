@@ -1,12 +1,12 @@
 <a href="#">
   <img src="https://i.ibb.co/8cMcwS9/github-poster.png" width="100%"
-   alt="Error">
+  height="470px alt="Error">
 </a>
 <hr />
 
 <h3>Azizjon</h3>
 <h4>
-  Hello everyone! I'm Azizjon, or simply John*. <br> A rookie coding problem solver,
+  Hello everyone! I'm Azizjon, or simply John*. A rookie coding problem solver,
   melophile, JavaScript and Swift enthusiast. Currently, learning TypeScript and
   thinking about migration from JavaScript to Swift. I love to create web
   things.
@@ -43,4 +43,10 @@
     <strong>WORKING HARD</strong>
   </li>
 </ul>
-<h3>Have a good day!</h3>
+<ul>
+  <h3>✨ My goals</h3>
+  <li>to work at Uber or Apple, with professional software engineers</li>
+  <li>to share my experience with young developers</li>
+  <li>to create my own IT business company</li>
+</ul>
+<h3>Have good day!</h3>
