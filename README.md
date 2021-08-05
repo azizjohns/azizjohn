@@ -43,4 +43,4 @@
     <strong>WORKING HARD</strong>
   </li>
 </ul>
-<h3>Have good day!</h3>
+<h3>Have a good day!</h3>
