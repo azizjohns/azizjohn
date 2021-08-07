@@ -1,6 +1,6 @@
 <a href="#">
   <img src="https://i.ibb.co/8cMcwS9/github-poster.png" width="100%"
-  height="470px alt="Error">
+   alt="Error">
 </a>
 <hr />
 
