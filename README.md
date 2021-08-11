@@ -29,8 +29,7 @@
 <ul>
   <h3>🪐 I'm ...</h3>
   <li>
-    reading <strong>Clean Code</strong> book which is related to best-practice
-    code concepts
+    reading <strong>The JavaScript Language [Ilya Kantor] </strong> book which is related to JavaScript beginner-intermediate concepts
   </li>
   <li>
     creating <strong>Disney</strong> clone with html/css and js, just curious
