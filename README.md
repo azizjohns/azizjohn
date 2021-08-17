@@ -1,6 +1,7 @@
 <a href="#">
-  <img src="https://i.ibb.co/8cMcwS9/github-poster.png" width="100%"
-   alt="Error">
+  <div align="center">
+    <img src="https://i.ibb.co/YRfLvRm/Yellow-and-Black-72x36-Landscape-Voters-Education-Banner.png" align="middle" alt="Banner" width="auto" border="0">
+  </div>
 </a>
 <hr />
 
@@ -12,18 +13,77 @@
   things.
 </h4>
 <ul>
+    <h3>📦 My repositories</h3>
+    <li>
+        <a href="https://github.com/azizjohn/azizjohn" target="_blank">
+            📁 About me
+        </a>
+        <p>
+             Magic repository, includes general information about me, contacts, repos.
+        </p>
+    </li>
+    <li>
+        <a href="https://github.com/azizjohn/pet-projects" target="_blank">
+            🐈 Pet Projects 
+        </a>
+        <p>
+            The most major repository, includes the most successful subrepos made by me.
+        </p>
+    </li>
+    <li>
+        <a href="https://github.com/azizjohn/problem-solving" target="_blank">
+            🔍 Problem solving
+        </a>
+        <p>
+            The most interesting repository, includes solutions for Leetcode and other website problems.
+        </p>
+    </li>
+    <li>
+        <a href="https://github.com/azizjohn/tiny-projects" target="_blank">
+            📏 Tiny projects 
+        </a>
+        <p>
+            The most tiny repository, includes small stuff.
+        </p>
+    </li>
+    <li>
+        <a href="https://github.com/azizjohn/course-projects" target="_blank">
+            🔖 Course projects 
+        </a>
+        <p>
+            The most useful repository, includes projects I did while course.
+        </p>
+    </li>
+    <li>
+        <a href="https://github.com/azizjohn/template-projects" target="_blank">
+            🗂 Template projects 
+        </a>
+        <p>
+            Fundamental repository, includes projects done with html/css.
+        </p>
+    </li>
+    <li>
+        <a href="https://github.com/azizjohn/template-projects" target="_blank">
+            📃 JS related articles
+        </a>
+        <p>
+            JavaScript fundamental and intermediate degree articles.
+        </p>
+    </li>
+</ul>
+<ul>
   <h3>🌍 Find me</h3>
   <li>
-    <a href="https://t.me/azizjon_qobilov">🎈 Telegram</a>
+    <a href="https://t.me/azizjon_qobilov" target="_blank">🎈 Telegram</a>
   </li>
   <li>
-    <a href="www.linkedin.com/in/azizjon-dev">🎈 Linkedin</a>
+    <a href="www.linkedin.com/in/azizjon-dev" target="_blank">🎈 Linkedin</a>
   </li>
   <li>
-    <a href="https://binarysearch.com/@/azizjohnme">🎈 BinarySearch</a>
+    <a href="https://binarysearch.com/@/azizjohnme" target="_blank">🎈 BinarySearch</a>
   </li>
   <li>
-    <a href="https://leetcode.com/azizjohnme/">🎈 LeetCode</a>
+    <a href="https://leetcode.com/azizjohnme" target="_blank">🎈 LeetCode</a>
   </li>
 </ul>
 <ul>
@@ -35,8 +95,7 @@
     creating <strong>Disney</strong> clone with html/css and js, just curious
   </li>
   <li>
-    trying to enter a company [EPAM SYSTEMS, Exadel, Novalab, Express24] as an
-    intern
+    trying to enter a company for an intern position or junior role
   </li>
   <li>
     <strong>WORKING HARD</strong>
