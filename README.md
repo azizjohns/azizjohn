@@ -7,7 +7,7 @@
 
 <h3>Azizjon</h3>
 <h4>
-  Hello everyone! I'm Azizjon, or simply John*. A rookie coding problem solver,
+  Hello everyone! I'm Azizjon, or simply John*.  A rookie coding problem solver,
   melophile, JavaScript and Swift enthusiast. Currently, learning TypeScript and
   thinking about migration from JavaScript to Swift. I love to create web
   things.
@@ -90,9 +90,6 @@
   <h3>🪐 I'm ...</h3>
   <li>
     reading <strong>The JavaScript Language [Ilya Kantor] </strong> book which is related to JavaScript beginner-intermediate concepts
-  </li>
-  <li>
-    creating <strong>Disney</strong> clone with html/css and js, just curious
   </li>
   <li>
     trying to enter a company for an intern position or junior role
