@@ -7,7 +7,7 @@
 
 <h3>Azizjon</h3>
 <h4>
-  Hello everyone! I'm Azizjon, or simply John*.  A rookie coding problem solver,
+   Hello everyone! I'm Azizjon, or simply John*.  A rookie coding problem solver,
   melophile, JavaScript and Swift enthusiast. Currently, learning TypeScript and
   thinking about migration from JavaScript to Swift. I love to create web
   things.
