@@ -14,7 +14,7 @@
     <li>I am currently learning JavaScript( +React)  and TypeScript.</li>
     <li>I am currently solving coding problems at LeetCode and BinarySearch.</li>
     <li>I do not use social media, except Linkedin and Telegram.</li>
-    <li>I deeply use time management methods.</li>
+    <li>I use Eisenhower Matrix method for time management.</li>
     <li>Checkout my resume | articles.</li>
     <li>Have a good day!</li>
   </ul>
