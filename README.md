@@ -10,11 +10,11 @@
   <ul align="left">
     <li>Nickname: John.</li>
     <li>Pronouns: he/him.</li>
-    <li>Dream: Uber | Apple</li>
-    <li>I am currently learning JavaScript( +React)  and TypeScript.</li>
+    <li>Dream: <a href="https://en.wikipedia.org/wiki/Uber" target="_blank">Uber</a> | <a href="https://en.wikipedia.org/wiki/Apple_Inc." target="_blank"> Apple </a></li>
+    <li>I am currently learning <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a> and <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank">TypeScript</a>.</li>
     <li>I am currently solving coding problems at LeetCode and BinarySearch.</li>
     <li>I do not use social media, except Linkedin and Telegram.</li>
-    <li>I use Eisenhower Matrix method for time management.</li>
+    <li>I use <a href="https://www.eisenhower.me/" target"_blank">Eisenhower Matrix</a> method for time management.</li>
     <li>Checkout my resume | articles.</li>
     <li>Have a good day!</li>
   </ul>
